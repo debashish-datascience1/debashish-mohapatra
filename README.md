@@ -33,7 +33,7 @@ focus      : LangChain · RAG · AWS Bedrock · Agentic Workflows
 mission    : "Turn complex business problems into autonomous AI systems."
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debashish-datascience1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ea8ff&text_color=a0b4d0&langs_count=8" width="340"/>
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debashish-datascience1&theme=tokyonight" width="340"/>
 
 - 🤖 Building **Agentic AI pipelines** that think, act, and self-correct
 - 🔍 Expert in **RAG** — turning private data into intelligent answers
